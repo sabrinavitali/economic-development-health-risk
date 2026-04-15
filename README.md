@@ -1,7 +1,6 @@
 
-Analysis of how economic development reshapes health risk across the life cycle, focusing on early-life and behavioural risk using global data.
 # Global Risk Across the Life Cycle
-
+Analysis of how economic development reshapes health risk across the life cycle, focusing on early-life and behavioural risk using global data.
 ## Overview
 
 This project analyzes how economic development reshapes the distribution of health risk across the life cycle.
